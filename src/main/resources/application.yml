@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:derby:secdemo_db;dreate=true;collation=TERRITORY_BASED:PRIMARY
+    url: jdbc:derby:secdemo_db;create=true;collation=TERRITORY_BASED:PRIMARY
   jpa:
     hibernate:
       ddl-auto: update

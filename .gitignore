@@ -33,3 +33,4 @@ build/
 .vscode/
 
 derby.log
+/secdemo_db
